@@ -10,11 +10,10 @@ This project involves analyzing e-commerce sales data across multiple Indian sta
 
 ---
 
-## Dashboard Preview
+## Dashboard Preview    <img width="1165" height="657" alt="Screenshot 2026-06-16 215344" src="https://github.com/user-attachments/assets/9d7d90e6-8eb0-4884-8d87-45a0b55111bf" />
 
-![E-Commerce Sales Dashboard](dashboard_preview.png)
 
----
+
 
 ## Tools & Technologies
 
