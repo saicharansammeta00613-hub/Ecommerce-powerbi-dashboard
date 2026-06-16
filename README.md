@@ -137,6 +137,6 @@ An interactive Power BI report was built with the following visuals:
 
 ## Author
 
-**[Your Name]**  
+Sammeta Saicharan
 Aspiring Data Analyst | Power BI | SQL | Excel  
-[LinkedIn Profile] | [GitHub Profile]
+
